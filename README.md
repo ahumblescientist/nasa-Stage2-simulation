@@ -23,3 +23,4 @@
 1. views the amount of red objects repelled: repelled.
 2. views the amount of green objects recycled: recycled.
 
+![simulation-picture](./simulation-picture.png)

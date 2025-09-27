@@ -1,4 +1,5 @@
 # This is a visualization for modelling "The Shadow Brokers" Team Solution to problem 2 in stage 2 in SAPA hackathon
+[Preview Here](https://ahumblescientist.github.io/nasa-Stage2-simulation/)
 
 ## The Model
 1. we are modelling recycable objects with green cubes, and unwanted objects with red
